@@ -1,0 +1,20 @@
+# סיסמאות ומפתחות
+.env
+strava_token.json
+whoop_token.json
+
+# נתונים אישיים
+chat_history.json
+rides.json
+garmin_cache.json
+whoop_cache.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
